@@ -1,0 +1,31 @@
+/* Header styling */
+#header {
+    background-color: black;
+    color: #cfcfcf;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* background-color: red; */
+}
+
+/* Logo styling */
+#logo-image {
+    width: 500px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Header title styling */
+#header-title {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+/* Header description styling */
+#header-description {
+    font-size: 1.2em;
+    margin: 0;
+}

@@ -1,0 +1,44 @@
+/* Section1 styling */
+#section1 {
+    padding: 20px;
+    background-color: black;
+    color: #cfcfcf;
+}
+
+#section-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+    font-weight: 500;
+    padding-top: 50px;
+}
+
+/* Card container styling */
+#card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* Individual card styling */
+.card {
+    background-color: #252525;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    width: 200px;
+    color: #cfcfcf;
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;    
+}
+
+.card-title {
+    margin-top: 10px;
+    font-size: 1.1em;
+    font-weight: 500;
+}
